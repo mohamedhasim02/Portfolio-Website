@@ -39,6 +39,7 @@ If you have any questions or inquiries, please feel free to reach out to me thro
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
 
 Check My Portfolio Here : https://mohamedhasim-portfolio.netlify.app/
-![Screenshot (86)](https://github.com/user-attachments/assets/b5f0299f-b825-4695-a4e2-d002003fc64f)
 
+
+![Screenshot (87)](https://github.com/user-attachments/assets/85619633-1887-4696-8d1f-2b00c99c76be)
 
