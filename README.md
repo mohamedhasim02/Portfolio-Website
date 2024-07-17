@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
+This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, JavaScript, GSAP.
 
 
 ## Description
@@ -38,5 +38,5 @@ If you have any questions or inquiries, please feel free to reach out to me thro
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
 
-Check My Portfolio Here : https://mohamedhasim02.github.io/Portfolio-Website/
+Check My Portfolio Here : https://mohamedhasim-portfolio.netlify.app/
 
