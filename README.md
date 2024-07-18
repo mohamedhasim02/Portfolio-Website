@@ -19,6 +19,7 @@ The personal portfolio website showcases my skills, projects, and experiences as
 * HTML: Markup language used for structuring the website.
 * CSS: Stylesheet language used for designing and formatting the website.
 * JavaScript: Programming language used for adding interactivity and dynamic features.
+* GSAP: Transforming web animations with ease and performance.
 
 
 ## Getting Started
